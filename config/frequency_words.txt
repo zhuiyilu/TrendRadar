@@ -256,3 +256,19 @@
 
 # 产业政策
 生产力
+
+# 在此粘贴你的 frequency_words.txt 内容...
+# 或拖拽文件到编辑器区域
+
+[GLOBAL_FILTER]
+
+[WORD_GROUPS]
++原油库存 OR +EIA OR +OPEC OR +俄罗斯石油 OR +沙特减产
++铜精矿 OR +LME铜 OR +COMEX铜 OR +进口铜 OR +电解铜
++生猪 OR +能繁母猪 OR +猪价 OR +非洲猪瘟 OR +白条肉
++碳酸锂 OR +锂矿 OR +锂电池 OR +氢氧化锂 OR +电池级碳酸锂
++PTA OR +PX OR +聚酯 OR +涤纶 OR +短纤
++甲醇 OR +煤制甲醇 OR +烯烃 OR +甲醇制烯烃
++美联储 OR +降息 OR +加息 OR +非农 OR +点阵图
++地缘 OR +中东 OR +乌克兰 OR +红海 OR +伊朗
++持仓异动 OR +资金流向 OR +龙虎榜期货 OR +多头减仓 OR +空头增仓
